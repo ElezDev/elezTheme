@@ -1,0 +1,21 @@
+{
+  "name": "eleztheme",
+  "displayName": "elezTheme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mejorar la productividad y dar mejor visibilidad, sobre el codigo escrito",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mejorar la productividad y dar mejor visibilidad, sobre el codigo escrito-color-theme.json"
+      }
+    ]
+  }
+}
