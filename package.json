@@ -1,10 +1,21 @@
 {
-  "name": "eleztheme",
-  "displayName": "elezTheme",
-  "description": "",
+  "name": "ElezTheme",
+  "displayName": "Elezdev Theme",
+  "description": "Con este tema va sacar todo su nivel, no es maś.",
   "version": "0.0.1",
+  "publisher": "elezdev",
+  "icon": "resources/elez.jpg",
+  "author": {
+    "name": "ElezDev",
+    "email": "edwinledezma2013@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElezDev/elezTheme"
+  },
   "engines": {
     "vscode": "^1.86.0"
+
   },
   "categories": [
     "Themes"
@@ -12,9 +23,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mejorar la productividad y dar mejor visibilidad, sobre el codigo escrito",
+        "label": "Elezdev Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Mejorar la productividad y dar mejor visibilidad, sobre el codigo escrito-color-theme.json"
+        "path": "./themes/ElezTheme color-theme.json"
       }
     ]
   }
