@@ -1,8 +1,8 @@
 {
 	"name": "ElezTheme",
 	"colors": {
-	  "editor.background": "#881b9b",
-	  "editor.foreground": "#F2F2F2",
+		"editor.background": "#232122",
+		"editor.foreground": "#F2F2F2",
 	  "activityBarBadge.foreground": "#EDF2C2",
 	  "activityBarBadge.background": "#5c5a5b",
 	  "sideBarTitle.foreground": "#767373",
@@ -45,6 +45,7 @@
 		  "foreground": "#868585"
 		}
 	  },
+	  
 	  {
 		"name": "Variables",
 		"scope": ["variable", "string constant.other.placeholder"],
